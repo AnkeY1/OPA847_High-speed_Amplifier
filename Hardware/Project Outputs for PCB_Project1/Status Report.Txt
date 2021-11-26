@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[OPA847.TXT]
+   Generated File[OPA847.LDP]
+   Generated File[OPA847.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:02:39 On 2021/11/5
